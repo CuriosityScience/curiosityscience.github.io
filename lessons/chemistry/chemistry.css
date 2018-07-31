@@ -1,0 +1,38 @@
+nav {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.navbar-text {
+  color: rgba(255,255,255,1) !important;
+}
+
+body {
+  padding-top: 100px;
+}
+
+.section {
+  margin-top: 20px;
+}
+
+.section-text {
+  margin-top: 5px;
+}
+
+div.container {
+  font-family: 'Noto Serif', sans-serif;
+}
+
+a.btn {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.box {
+  border: .5px solid;
+  padding: 10px;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+.box>p.nm {
+  margin:0;
+}
