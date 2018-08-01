@@ -36,3 +36,8 @@ a.btn {
 .box>p.nm {
   margin:0;
 }
+
+.problemset > li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
