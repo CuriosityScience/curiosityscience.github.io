@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans:400,400i');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.2.0/css/solid.css');
+@import url('https://use.fontawesome.com/releases/v5.2.0/css/fontawesome.css');
+
+
 nav {
   font-family: 'Noto Sans', sans-serif;
 }
@@ -48,4 +55,19 @@ a.btn {
 
 .subq {
   padding-left: 20px;
+}
+
+div.header {
+  font-family: 'Arvo', sans-serif;
+  margin-bottom: 15px;
+}
+
+span.unit {
+  color: teal;
+}
+
+span.unit-title {
+  padding-left: 10px;
+  font-size: 32px;
+  color: steelblue;
 }
